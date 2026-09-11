@@ -1,0 +1,2 @@
+
+ssh-keygen -t rsa -C 3474311656@qq.com
